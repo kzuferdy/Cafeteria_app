@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cafeteria_app</string>
+    <string name="kopi_hitam">B01_Minuman\nKopi Hitam\n10.000</string>
+    <string name="cireng">F02_Makanan\nCireng\n10.000</string>
+    <string name="chesse_cake">D01_Dessert\nCheese Cake\n40.000</string>
+    <string name="kopi_hitam_desc">Kopi hitam dibuat dengan teknik\nekspresso,dimana biji kopi yang \ndi gunakan yaitu berasal\ndari Aceh Gayo jenis arabika,\nDisajikan dengan gula terpisah</string>
+    <string name="cireng_desc">Makanan ringan berupa\ntepung kanji goreng isi \nbahar dasar oncom,di sajikan \ndengan bumbu kacang pedas</string>
+    <string name="chesse_desc">Kue Tart 1 slice\ndengan bahan utama cream cheese\ndengan toping buah buahan\nasli seperti anggur, jeruk, kiwi</string>
+</resources>
